@@ -1,0 +1,21 @@
+{
+  "name": "guia_de_perguntas",
+  "version": "1.0.0",
+  "description": "Ask and answers page like Yahoo answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Soares",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.2",
+    "body-parser": "^1.19.1",
+    "bootstrap": "^5.1.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.13.0"
+  }
+}
